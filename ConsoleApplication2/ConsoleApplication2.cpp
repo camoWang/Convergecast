@@ -9,6 +9,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	
 	printf("Hello World");
 	
+	printf("Hello «C­ô");
 	return 0;
 }
 
